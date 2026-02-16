@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Featured Film",
+    "youtubeId": "4H5NTEzCLyI",
+    "thumbnail": "https://img.youtube.com/vi/4H5NTEzCLyI/maxresdefault.jpg",
+    "description": "A compelling cinematic story showcasing masterful direction and storytelling.",
+    "category": "Feature Film",
+    "priority": 1,
+    "featured": true,
+    "premiereDate": "2024-01-15"
+  }
+]
