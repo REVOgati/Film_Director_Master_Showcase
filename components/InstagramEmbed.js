@@ -9,6 +9,7 @@ export default function InstagramEmbed({ postId, title = 'Instagram post' }) {
         frameBorder="0"
         scrolling="no"
         allowTransparency="true"
+        loading="eager"
         className="border-0 max-w-full"
       />
     </div>
